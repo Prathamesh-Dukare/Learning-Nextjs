@@ -1,0 +1,7 @@
+*.csv
+node_modules
+*.log
+*.swp
+*.swo
+
+.next
